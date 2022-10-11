@@ -18,9 +18,6 @@ export default {
 
 <style>
 body{
-  width:100vw;
-  height:100vh;
-  background-image: url("../../static/img/bg3.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   box-sizing: border-box;
@@ -30,6 +27,6 @@ body{
 }
 .cyberpunk{
     position: relative;
-    left:450px;
+    right:400px;
 }
 </style>

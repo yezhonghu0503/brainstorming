@@ -17,9 +17,7 @@ export default {
 </template>
 
 <style>
-body{
-  width:100vw;
-  height:100vh;
+<!-- body{
   background-image: url("../../static/img/bg3.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -27,7 +25,7 @@ body{
   padding: 0;
   margin: 0;
   font-family: BlenderProBold, "PingFang SC", "Microsoft Yahei", sans-serif;
-}
+} -->
 .cyberpunk{
     position: relative;
     left:450px;

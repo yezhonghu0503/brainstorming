@@ -17,19 +17,15 @@ export default {
 </template>
 
 <style>
-body{
-  width:100vw;
-  height:100vh;
-  background-image: url("../../static/img/bg3.jpg");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+html{
+  background-image: url("https://lacblog.top/upload/2022/07/bg0722.jpg");
   box-sizing: border-box;
   padding: 0;
   margin: 0;
   font-family: BlenderProBold, "PingFang SC", "Microsoft Yahei", sans-serif;
 }
 .cyberpunk{
-    position: relative;
-    left:450px;
+    position: absolute;
+    left:100px;
 }
 </style>

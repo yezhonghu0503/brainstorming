@@ -17,9 +17,7 @@ export default {
 </template>
 
 <style>
-body{
-  width:100vw;
-  height:100vh;
+html{
   background-image: url("../../static/img/bg3.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;

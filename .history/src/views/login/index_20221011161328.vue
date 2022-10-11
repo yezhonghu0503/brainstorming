@@ -18,9 +18,7 @@ export default {
 
 <style>
 body{
-  width:100vw;
-  height:100vh;
-  background-image: url("../../static/img/bg3.jpg");
+  background-image: url("https://lacblog.top/upload/2022/07/bg0722.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   box-sizing: border-box;
@@ -30,6 +28,6 @@ body{
 }
 .cyberpunk{
     position: relative;
-    left:450px;
+    left:300px;
 }
 </style>

@@ -17,15 +17,14 @@ const router = createRouter({
     routes:routes
 })
 //路由守卫
-router.beforeEach((to, from, next) => {
-    // to and from are both route objects. must call `next`.
-    if(to.meta.title){
-        document.title = `${to.meta.title}`;
-    }
-    next();
-})
-router.afterEach((to, from) => {
-    // to and from are both route objects.
-})
+// router.beforeEach((to, from, next) => {
+//     // to and from are both route objects. must call `next`.
+//     if(to.meta.title){
+//         document.title = `${to.meta.title}`
+//     }
+// })
+// router.afterEach((to, from) => {
+//     // to and from are both route objects.
+// })
 
 export default router;
