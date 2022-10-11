@@ -3,7 +3,7 @@
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import {onMounted} from "vue"
 onMounted(()=>{
-  console.log("---Braninstorming v1.0 dev---")
+  console.log("---start---")
 })
 </script>
 
@@ -23,6 +23,7 @@ body {
   color: #2c3e50;
   overflow-x: hidden;
   padding-bottom: 15px;
+  background: #f6f6f6;
   /* margin-top: 60px; */
 }
 </style>

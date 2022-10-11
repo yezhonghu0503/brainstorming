@@ -3,11 +3,12 @@
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import {onMounted} from "vue"
 onMounted(()=>{
-  console.log("---Braninstorming v1.0 dev---")
+  console.log("---start---")
 })
 </script>
 
 <template>
+  <div>2131</div>
   <router-view />
 </template>
 
